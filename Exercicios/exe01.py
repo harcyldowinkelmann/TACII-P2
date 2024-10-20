@@ -12,8 +12,8 @@ class MediaValores:
 
     def __init__(self):
         '''
-        Inicializa a liste de valores e chama o método para iniciar o processo
-        de coletaa de dados e cálculo da média
+        Inicializa a lista de valores e chama o método para iniciar o processo
+        de coleta de dados e cálculo da média
         '''
         self.valores = []
         self.calculaMedia()
