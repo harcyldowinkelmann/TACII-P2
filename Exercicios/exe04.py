@@ -1,3 +1,6 @@
+# Autor: Harcyldo Leonardo Viana Winkelmann
+# Disciplina: Tópicos Avançados em Computação II
+
 # Implemente em Python a função de jogo de computador round_collision() que verifica se dois
 # objetos circulares colidem; ela retorna True se eles colidirem e False se não colidirem. Cada objeto
 # circular será dado pelo seu raio e as coordenadas (x, y) do seu centro. Assim, a função apanhará

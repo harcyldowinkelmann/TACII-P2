@@ -1,3 +1,6 @@
+# Autor: Harcyldo Leonardo Viana Winkelmann
+# Disciplina: Tópicos Avançados em Computação II
+
 # A probabilidade de conseguir n caras em sequência ao lançar uma moeda não viciada n vezes é 2 elevado a –n.
 # Implemente em Python a função “prob(n)” que aceita um inteiro não negativo n como
 # entrada e retorna a probabilidade de n caras em seguida ao lançar uma moeda não viciada n vezes.

@@ -1,3 +1,6 @@
+# Autor: Harcyldo Leonardo Viana Winkelmann
+# Disciplina: Tópicos Avançados em Computação II
+
 # A distância entre dois pontos P e Q em um plano cartesiano pode ser calculada usando o teorema de Pitágoras c2 = a2 + b2 
 # no qual a hipotenusa c seria a distância entre um ponto P e Q. 
 # Os valores de a e b seriam a diferença entre os pontos para os eixos x e y, respectivamente. 

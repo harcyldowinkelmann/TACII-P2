@@ -1,3 +1,6 @@
+# Autor: Harcyldo Leonardo Viana Winkelmann
+# Disciplina: Tópicos Avançados em Computação II
+
 # 1) Implemente em Python um programa que solicite um número indefinido de valores positivos via teclado 
 # e insira tais valores em uma lista. A condição de parada é quando o usuário digitar o valor 0. 
 # Imprima a média dos valores inseridos na lista.
